@@ -14,8 +14,8 @@ body {
         .container {
           background-image: url(https://github.com/jotaifpb/cardapio/blob/main/jl8.png?raw=trueg);
             background rgba(0, 0, 0, 0.3); /* Fundo preto translúcido para contraste */
-          background-size: cover;
-            background-position: center;
+          background-size: contain;
+            background-position: top;
             background-repeat: no-repeat;
             background-attachment: fixed; /* Fundo fixo para um visual moderno */
             padding: 20px;
